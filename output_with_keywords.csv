@@ -1,0 +1,11 @@
+Question,OriginalOrder,Answer,Video,Keywords
+What does the # symbol do in Python?,python,"['used', 'comment']",recorded_video_1.webm,common line
+Which keyword is used for function in Python language?,python,['def'],recorded_video_2.webm,definition
+What is a break statement,python,"['used', 'break', 'loop', 'statement']",recorded_video_3.webm,break statement
+What is a pass in Python?,python,"['means', 'performing', 'operation']",recorded_video_4.webm,pass function
+Can we Pass a function as an argument in Python?,python,['yes'],recorded_video_5.webm,argument function
+what is python?,python,"['Python', 'programing', 'language']",recorded_video_6.webm,python programming language
+Is Python code compiled or interpreted?,python,"['yes', 'Interpreted']",recorded_video_7.webm,yes interpreter language
+What does pip stand for python?,python,"['Preferred', 'Installer', 'Program']",recorded_video_8.webm,stand python
+"Python supports the creation of anonymous functions at runtime, using a construct called",python,['lambda'],recorded_video_9.webm,anonymous function runtime error
+Who developed Python Programming Language?,python,"['Guido', 'van', 'Rossum']",,nan

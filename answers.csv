@@ -1,0 +1,11 @@
+Question,OriginalOrder,Answer
+Who developed Python Programming Language?,python,"['Guido', 'van', 'Rossum']"
+Is Python code compiled or interpreted?,python,"['yes', 'Interpreted']"
+What is a pass in Python?,python,"['means', 'performing', 'operation']"
+What does pip stand for python?,python,"['Preferred', 'Installer', 'Program']"
+Which keyword is used for function in Python language?,python,['def']
+what is python?,python,"['Python', 'programing', 'language']"
+Can we Pass a function as an argument in Python?,python,['yes']
+What is a break statement,python,"['used', 'break', 'loop', 'statement']"
+What does the ‘#’ symbol do in Python?,python,"['used', 'comment']"
+"Python supports the creation of anonymous functions at runtime, using a construct called",python,['lambda']

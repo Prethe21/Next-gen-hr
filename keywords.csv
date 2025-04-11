@@ -1,0 +1,21 @@
+what is java?,java,"['java', 'also', 'programing', 'language']"
+what is python?,python,"['Python', 'programing', 'language']"
+Who developed Python Programming Language?,python,"['Guido', 'van', 'Rossum']"
+Is Python code compiled or interpreted?,python,"['yes', 'Interpreted']"
+Which keyword is used for function in Python language?,python,['def']
+"Python supports the creation of anonymous functions at runtime, using a construct called",python,['lambda']
+What does pip stand for python?,python,"['Preferred', 'Installer', 'Program']"
+What does the ‘#’ symbol do in Python?,python,"['used', 'comment']"
+What is a pass in Python?,python,"['means', 'performing', 'operation']"
+Can we Pass a function as an argument in Python?,python,['yes']
+What is a break statement,python,"['used', 'break', 'loop', 'statement']"
+Number of primitive data types in Java are?,java,['eight']
+What is the size of float and double in java?,java,"['32', '64']"
+"when an array passed to a method, what does the method receive ?",java,"['reference', 'array']"
+When is the object created with new keyword?,java,"['run', 'time']"
+What is the return type of the hashCode() method in the Object class?,java,['int']
+"In which process, a local variable has the same name as one of the instance variables?",java,"['Variable', 'Shadowing']"
+An interface with no fields or methods is known as a ______.,java,"['Marker', 'Interface']"
+What do you mean by chained exceptions in Java?,java,"['exception', 'caused', 'exceptions']"
+"In which memory a String is stored, when we create a string using new operator?",java,"['Heap', 'memory']"
+What is the use of the intern() method?,java,"['returns', 'existing', 'string', 'memory']"
